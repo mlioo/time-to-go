@@ -1,4 +1,4 @@
-module github.com/mlioo/go-slack-channel-leaver
+module github.com/mlioo/time-to-go
 
 go 1.17
 
